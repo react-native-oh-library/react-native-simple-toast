@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "react-native-simple-toast",
+        "License": "MIT License",
+        "License File": "LICENSE",
+        "Version Number": "3.3.1",
+        "Owner" : "xiafeng@huawei.com",
+        "Upstream URL": "https://github.com/vonovak/react-native-simple-toast",
+        "Description": "Cross-platform Toast experience for React Native"
+    }
+]
