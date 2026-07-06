@@ -1,4 +1,4 @@
-# @react-native-oh-tpl/react-native-simple-toast
+# @react-native-ohos/react-native-simple-toast
 
 This project is based on [react-native-simple-toast](https://github.com/vonovak/react-native-simple-toast)
 

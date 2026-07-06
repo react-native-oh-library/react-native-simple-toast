@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-oh-tpl/react-native-simple-toast",
-  "version": "3.3.1-0.0.1",
+  "name": "@react-native-ohos/react-native-simple-toast",
+  "version": "3.3.2",
   "description": "Cross-platform Toast experience for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
